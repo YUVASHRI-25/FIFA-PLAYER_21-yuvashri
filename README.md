@@ -13,7 +13,6 @@ It includes loading the dataset, checking for missing/duplicate values, summariz
 - Contains player details such as:
   - Name, Age, Nationality, Club
   - Overall and Potential Ratings
-  - Skill Attributes (Pace, Shooting, Passing, etc.)
   - Position Ratings
   - Market Value & Wages
 
